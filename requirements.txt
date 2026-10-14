@@ -1,0 +1,6 @@
+# WireView HTTP - Python Dependencies
+# The core HTTP/1.1 server and test suite use Python standard libraries (socket, threading, etc.) with 0 external dependencies.
+
+# Optional tools for presentation & report generation:
+python-docx>=1.1.0
+python-pptx>=0.6.23
