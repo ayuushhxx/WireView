@@ -11,8 +11,17 @@
 
 ---
 
+## 🖥️ Live Network & Protocol Simulation
+
+![WireView HTTP Live Simulation](media/simulation.webp)
+
+> *Real-Time Network Telemetry & Protocol Simulation: Live TCP socket lifecycle, RFC 7230 streaming buffer pipeline, dynamic HTTP routing, wire-level header inspection, and live latency metrics telemetry powered by Server-Sent Events (SSE).*
+
+---
+
 ## 📑 Table of Contents
 
+- [Live Simulation](#-live-network--protocol-simulation)
 - [Overview](#-overview)
 - [Key Features](#-key-features)
 - [Architecture & Pipeline](#-architecture--pipeline)
